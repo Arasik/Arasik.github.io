@@ -67,7 +67,7 @@ head: # 删改前确定知道自己在做什么
   - key: rel
     value: apple-touch-icon-precomposed
   - key: href
-    value: https://imgchr.com/i/1l8k4S
+    value: https://s2.ax1x.com/2020/01/30/1l8k4S.jpg
 #    value: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=144
 - tag: link # 小图标，同上
   var:
@@ -75,7 +75,7 @@ head: # 删改前确定知道自己在做什么
     value: 'shortcut icon'
   - key: href
 #    value: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=32
--   value: https://imgchr.com/i/1l8k4S
+-   value: https://s2.ax1x.com/2020/01/30/1l8k4S.jpg
 - tag: link # 下面是博客的css，有些插件的css是单独在插件里引用的，假如需要自己的css可以仿照去加在后面。无脑cdn加速了。
   var:
   - key: rel
@@ -180,8 +180,8 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: https://imgchr.com/i/1l8k4S # 头像的地址
-    info: <br/>SICNU18级在读<br/>软件工程<br/>一个热爱游戏及开发的快乐憨憨<br/>ASC # 头像背后的信息
+    img: https://s2.ax1x.com/2020/01/30/1l8k4S.jpg # 头像的地址
+    info: <br/>SICNU18级在读<br/>软件工程<br/>一个热爱游戏及开发的快乐憨憨<br/> # 头像背后的信息
   description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="http://music.163.com/song?id=4998139&userid=319910306"></iframe>'#歌曲界面
   social:
 #  - title: rss
