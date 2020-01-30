@@ -260,10 +260,10 @@ sidebar:
 
 index:
   showtag:
-    - C++
-    - 数据结构与算法
-    - python
-    - Game_teardown
+  - C++
+  - 数据结构与算法
+  - python
+  - Game_teardown
 #  - 人生经验
 #  - ICPC模板
 #  - 水野爱
