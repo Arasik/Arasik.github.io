@@ -178,32 +178,34 @@ script: # 需要在正文前调用的脚本或者插件的autoloader
 sidebar:
   avatar: # 侧边栏显示的头像
     enable: true
-    img: //gravatar.loli.net/avatar/a12c5fff23dde00df79af9aca4e7b6e4?d=wavatar&s=600 # 头像的地址
-    info: <br/>SYSU17级在读<br/>计科超算方向<br/>永远喜欢水野爱<br/>田宫例四驱车<br/>ASC # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=0&id=155059595&auto=0&height=32"></iframe>'
+    img: https://imgchr.com/i/1l8k4S # 头像的地址
+    info: <br/>SICNU18级在读<br/>软件工程<br/>一个热爱游戏及开发的快乐憨憨<br/>ASC # 头像背后的信息
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="http://music.163.com/song?id=4998139&userid=319910306"></iframe>'#歌曲界面
   social:
-  - title: rss
-    href: /atom.xml
-    class: 'fas fa-rss'
-  - title: wu.kan@foxmail.com # email
-    href: mailto:wu.kan@foxmail.com
+#  - title: rss
+#    href: /atom.xml
+#    class: 'fas fa-rss'
+  - title: arasik@qq.com # email
+    href: mailto:arasik@qq.com
     class: 'fas fa-envelope'
   - title: github
-    href: //github.com/wu-kan
+    href: //github.com/Arasik
     class: 'fab fa-github'
-  - title: WuK # codeforces
-    href: //codeforces.com/profile/WuK
+  - title: codeforces # codeforces
+    href: //codeforces.com/profile/kisara
     class: 'fas fa-chart-bar fw'
-  - title: WuK # vjudge
-    href: //vjudge.net/user/WuK
-    class: 'fas fa-smile'
-  - title: 942759535 # qq
+#  - title: WuK # vjudge
+#    href: //vjudge.net/user/WuK
+#    class: 'fas fa-smile'
+  - title: 343665984 # qq
     class: 'fab fa-qq'
-  - title: Wu-_-Kan # weixin
-    class: 'fab fa-weixin'
-  - title: zhihu
-    href: //www.zhihu.com/people/wu.kan/activities
-    class: 'fab fa-zhihu'
+  - title: Bilibili # b 站
+    class: 'fab fa-bilibili'
+#  - title: Wu-_-Kan # weixin
+#    class: 'fab fa-weixin'
+#  - title: zhihu
+#    href: //www.zhihu.com/people/wu.kan/activities
+#    class: 'fab fa-zhihu'
   nav:
   - title: '<i class="fas fa-home fa-fw"></i> 首页'
     href: /
@@ -255,9 +257,12 @@ sidebar:
 
 index:
   showtag:
-  - 人生经验
-  - ICPC模板
-  - 水野爱
+    - C++
+    - python
+    - Game_teardown
+#  - 人生经验
+#  - ICPC模板
+#  - 水野爱
 
 post:
   meta:
@@ -279,13 +284,13 @@ post:
     text: 如果这篇博客帮助到你，可以请我喝一杯咖啡~
     img: # 万一真的有人打赏呢~
     - id: wechat
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/wechatpay.jpg
-    - id: wechatappreciate
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/wechatappreciate.jpg
-    - id: qq
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/qqpay.jpg
+      src: https://imgchr.com/i/1lJWh8
+#    - id: wechatappreciate
+#      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/wechatappreciate.jpg
+#    - id: qq
+#      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/qqpay.jpg
     - id: alipay
-      src: //cdn.jsdelivr.net/gh/wu-kan/wu-kan.github.io@1788f1b6c2e12cca626b85f25749f99ca0c7aad0/public/image/alipay.jpg
+      src: https://imgchr.com/i/1lJh9S
 
 valine:
   enable: true
