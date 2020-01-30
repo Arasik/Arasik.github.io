@@ -1,3 +1,12 @@
+---
+layout: post
+categories:
+	- 数据结构与算法
+tag: 数据结构与算法
+---
+
+
+
 ﻿# 最小生成树（Minimum Spanning Tree）
 
 经典的最小生成树算法的主要提出者是kruskal和prim，所以今天我们介绍的也是kruskal算法和prim算法。简单来说最小生成树就是用最少的代价使得一个图连通。

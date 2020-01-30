@@ -1,3 +1,12 @@
+---
+layout: post
+categories:
+	- 数据结构与算法
+tag: 数据结构与算法
+---
+
+
+
 ﻿#        广度优先搜索（Breadth-first search）
 
 广度优先搜索简称广搜或者BFS，BFS和DFS一样是一种图算法，dijkstra算法和最小生成树prim算法也有用到BFS的思想。通俗一点讲BFS就是暴力的辐射状一样搜索每一种可能出现的情况来找到答案。

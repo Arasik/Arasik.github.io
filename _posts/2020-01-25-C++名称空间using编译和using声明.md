@@ -1,5 +1,13 @@
-<h1> C++名称空间using编译和using声明</h1>
+---
+layout: post
+categories:
+  - C++
+tags: C++
+---
 
+
+
+<h1> C++名称空间using编译和using声明</h1>
 ```c++
 namespace jack{
     double bucket(double n){}

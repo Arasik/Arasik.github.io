@@ -2,7 +2,7 @@
 layout: post
 categories:
 	- 数据结构与算法
-tag:数据结构与算法
+tag: 数据结构与算法
 ---
 
 
