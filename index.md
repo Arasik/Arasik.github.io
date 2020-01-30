@@ -5,9 +5,8 @@ title: 海子哥的个人博客
 ## Contact
 
 - Address: **Sichuan Normal University (Chenglong Campus), Longquanyi District, Chengdu, Sichuan, China**
-- E-mail:
-  - **343665984@qq.com**
-- QQ: **343665984@qq.com**
+- E-mail:**343665984@qq.com**
+- QQ: **343665984**
 - Blog: **<https://arasik.github.io>**
 
 ## Education
