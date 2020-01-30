@@ -36,3 +36,7 @@ TBD
 ## Leadership
 
 Member of computer science association of sichuan normal university
+
+## 最喜欢的一句话：
+
+即使这个世界有多少聪明人想着用最简单的方法赚钱，还是会有一群又一群的笨蛋愿意花费大量的时间和精力去雕琢一个个佳作出来，我爱死这群笨蛋了。
