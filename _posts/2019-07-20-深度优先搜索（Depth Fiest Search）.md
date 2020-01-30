@@ -1,4 +1,14 @@
+---
+layout: post
+categories:
+	- 数据结构与算法
+tag:数据结构与算法
+---
+
+
+
 ﻿## 深度优先搜索（Depth Fiest Search）
+
 简称 深搜或者DFS，DFS是一种图的算法，基本思想就是用计算机的强大计算力去穷举每一种可能的情况，在计算机网络和人工智能方面都有广泛应用，**DFS的另一种名称叫做回溯法，就是要先改变参数进行递归，递归之后我们再返回原来的状态为下一次的递归做准备。**
 我们先来看个图
 ![原始图](https://img-blog.csdnimg.cn/20190720155912354.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80Mzg1OTE0OQ==,size_16,color_FFFFFF,t_70)
@@ -54,15 +64,15 @@ The following image shows five pictures of the same board. The first picture is 
 
 
 Your task is to write a program that, given a description of a map, calculates the maximum number of blockhouses that can be placed in the city in a legal configuration. 
- 
+
 
 Input
 The input file contains one or more map descriptions, followed by a line containing the number 0 that signals the end of the file. Each map description begins with a line containing a positive integer n that is the size of the city; n will be at most 4. The next n lines each describe one row of the map, with a '.' indicating an open space and an uppercase 'X' indicating a wall. There are no spaces in the input file. 
- 
+
 
 Output
 For each test case, output one line containing the maximum number of blockhouses that can be placed in the city in a legal configuration.
- 
+
 
 Sample Input
 4
@@ -87,7 +97,7 @@ X.X
 ....
 ....
 0
- 
+
 
 Sample Output
 5
