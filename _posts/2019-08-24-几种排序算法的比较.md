@@ -1,7 +1,7 @@
 ---
 layout: post
 categories:
-	- 数据结构与算法
+  - 数据结构与算法
 tags: 数据结构与算法
 ---
 
