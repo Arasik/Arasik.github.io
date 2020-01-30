@@ -182,7 +182,8 @@ sidebar:
     enable: true
     img: https://s2.ax1x.com/2020/01/30/1l8k4S.jpg # 头像的地址
     info: <br/>SICNU18级在读<br/>软件工程<br/>一个热爱游戏及开发的快乐憨憨<br/> # 头像背后的信息
-  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//music.163.com/outchain/player?type=2&id=4998139&auto=1&height=32"></iframe>'#歌曲界面
+#  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="music.163.com/outchain/player?type=2&id=4998139&auto=1&height=32"></iframe>'#歌曲界面
+  description: '<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=52 src="//music.163.com/outchain/player?type=2&id=4998139&auto=1&height=32"></iframe>'#歌曲界面
   social:
 #  - title: rss
 #    href: /atom.xml
