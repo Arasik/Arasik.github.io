@@ -1,6 +1,6 @@
 ---
 layout: index
-title: 海子哥的个人博客
+title: Kisara的个人博客
 ---
 ## Contact
 
