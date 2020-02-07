@@ -2,12 +2,11 @@
 
 layout: post
 categories:
-  - Gametear_down
-tags: Gametear_down
+  - Game_teardown
+tags: Game_teardown
 ---
 
 <h1><游戏积累之路>Arknights拆 解</h1>
-
 作为游戏积累之路的第一篇博客，选择了最近喜欢玩的明日方舟，这篇博客本来是个ppt的但是因为某些原因我想把它整理成博客
 
 ![2-7-2020-1.png](https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-7-2020-1.png)
