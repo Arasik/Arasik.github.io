@@ -9,11 +9,15 @@ tags: Game_teardown
 <h1><游戏积累之路>Arknights拆 解</h1>
 作为游戏积累之路的第一篇博客，选择了最近喜欢玩的明日方舟，这篇博客本来是个ppt的但是因为某些原因我想把它整理成博客
 
-![2-7-2020-1.png](https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-7-2020-1.png)
+
+
+<img src="https://s2.ax1x.com/2020/02/07/12dBd0.png" alt="12dBd0.png" border="0" />
 
 我首先从我觉得最让人着迷的干员系统(老婆系统)出发，然后将整个明日方舟拆分这下面这几个模块，然后画出他们的核心资源玩法循环图，按一元大佬的说法叫core loop，这是在积累路上很重要的一步
 
-[![12dass.png](https://s2.ax1x.com/2020/02/07/12dass.png)](https://imgchr.com/i/12dass)
+
+
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-2.png" >](https://imgchr.com/i/12dass)
 
 然后我们一一来看各个不同的系统吧
 
