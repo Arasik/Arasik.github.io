@@ -17,13 +17,13 @@ tags: Game_teardown
 
 
 
-<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-2.png" >](https://imgchr.com/i/12dass)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-2.png" >
 
 然后我们一一来看各个不同的系统吧
 
-[![12d0Zq.png](https://s2.ax1x.com/2020/02/07/12d0Zq.png)](https://imgchr.com/i/12d0Zq)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-3.png" >
 
-[![12ddLn.png](https://s2.ax1x.com/2020/02/07/12ddLn.png)](https://imgchr.com/i/12ddLn)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-4.png" >
 
 1.提升属性需要提升等级，就需要经验卡，到达上限后需要精英化来提升上限。精华化需要精英材料，当抽到重复角色时可以增加潜能，提高属性或者减少部署费用
 
@@ -37,7 +37,7 @@ tags: Game_teardown
 
 2.对不同的干员，拥有不同的特点，对应不同的属性，而不同的属性也对反向证明干员的不同特点，例如，重装干员阻挡多，在属性上的体现就是生命值高，护甲高，阻挡数多
 
-[![12woBn.png](https://s2.ax1x.com/2020/02/07/12woBn.png)](https://imgchr.com/i/12woBn)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-5.png" >
 
 大部分关卡战斗时都会消耗体力，这就要说说大部分类似手游都有的一个机制——<font color='red'>体力机制</font>
 
@@ -53,18 +53,21 @@ tags: Game_teardown
 
 5.当开活动的时候，有扫荡功能的游戏开始缺扫荡券，没有扫荡功能的开始开额外活动，常驻活动也就算了，限时活动有多少是能够靠每天正常的体力回复刷完的？仓鼠玩家要忍受诱惑，甚至提前几天十几天开始攒体力，非仓鼠玩家呢？金苹果，碎石……或者氪金。此点作者：Frijoles红豆泥https://www.bilibili.com/read/cv2579172/出处： bilibili
 
-[![120oxe.png](https://s2.ax1x.com/2020/02/07/120oxe.png)](https://imgchr.com/i/120oxe)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-6.png" >
 
 
 
-[![120f56.png](https://s2.ax1x.com/2020/02/07/120f56.png)](https://imgchr.com/i/120f56)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-7.png" >
 
 游戏目标：玩家选择不同的干员，将其放在战场上，使用不同的战术和特点，结合地图，防止敌人进入目标点
 
 
 
-[![120cr9.png](https://s2.ax1x.com/2020/02/07/120cr9.png)](https://imgchr.com/i/120cr9)
-[![120RV1.png](https://s2.ax1x.com/2020/02/07/120RV1.png)](https://imgchr.com/i/120RV1)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-8.png" >
+
+
+
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-9.png" >
 
 代理作战系统：这个功能简直就是懒癌患者的救星，肝的救世主，玩家可以通过这个功能将已经通关的关卡进行自动战斗，不用人手动去操作
 
@@ -80,17 +83,17 @@ tags: Game_teardown
 
 4.医疗干员升级后，奶量上升，本来应该死亡的工具人，没有死或者死的慢，会导致代理指挥部署不了或者部署慢其他干员。
 
-[![12058O.png](https://s2.ax1x.com/2020/02/07/12058O.png)](https://imgchr.com/i/12058O)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-10.png" >
 
 
 
-![2-7-2020-11.png](https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-7-2020-11.png)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-11.png" >
 
 每次活动，都是一个游戏的热度，收入的一个峰值，活动关卡的设计和策划好坏更是体现了一个活动的好坏。
 
 就之前出过的危机合约的活动，其中的高难关卡点燃了玩家们的激情，平时的剧情关卡玩家完全可以靠干员练度碾压过去，但是在高难关卡中你只有练度还远远不够，玩家的战术也起到了关键作用，继而在视频网站上纷纷有玩家来分享自己的思路战术。通过的关卡越难获得的成就感和赞美就越多。
 
-![2-7-2020-12.png](https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-7-2020-12.png)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-12.png" >
 
 这系统可以说是，明日方舟收入来源的重中之重
 
@@ -102,19 +105,19 @@ tags: Game_teardown
 
 
 
-![2-7-2020-13.png](https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-7-2020-13.png)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-13.png" >
 
 采购中心中不同区作用不同，总的来说就是资源交换，一定程度上丰富游戏内容和加入氪金系统
 
 
 
-![2-7-2020-14.png](https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-7-2020-14.png)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-14.png" >
 
 
 
 该系统在资源流动和丰富游戏内容方面有着重要作用，资源流动的示意图在前面已经给出，此处不过多叙述
 
-[![12BTYV.png](https://s2.ax1x.com/2020/02/07/12BTYV.png)](https://imgchr.com/i/12BTYV)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-15.png" >
 
 任务系统为玩家提供了每天的游戏目标，当玩家完成游戏目标时会获得相应奖励，这种正反馈式的循环正是玩家沉迷其中的核心。
 
@@ -122,10 +125,10 @@ tags: Game_teardown
 
 
 
-![2-7-2020-16.png](https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-7-2020-16.png)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-16.png" >
 
 对于明日方舟这种PVE的游戏，并没有什么竞技性，但是玩家可以也通过好友的支援和访问好友基建来获得信用点
 
 
 
-![2-7-2020-17.png](https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-7-2020-17.png)
+<img src="https://rpzoss.oss-cn-chengdu.aliyuncs.com/Public/2-8-2020-17.png" >
