@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Kisara的个人博客
+title: Kisara的石板日志
 ---
 ## Contact
 
