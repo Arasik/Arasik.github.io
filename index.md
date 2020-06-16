@@ -18,6 +18,7 @@ Currently studying at Sichuan Normal University
 * Academic Science and Technology Individual Scholarship 2018-2019
 * Third prize in 2019 computer design competition (big data challenge)
 * The third prize of ACM chongqing competition in 2019
+* Second prize of the 17th May Day Mathematical Modeling Competition in 2020
 
 ## Project
 
