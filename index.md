@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Kisara的石板日志
+title: Kisara的记忆石板
 ---
 ## Contact
 
