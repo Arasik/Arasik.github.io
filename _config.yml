@@ -200,8 +200,8 @@ sidebar:
 #  - title: WuK # vjudge
 #    href: //vjudge.net/user/WuK
 #    class: 'fas fa-smile'
-  - title: 343665984 # qq
-    class: 'fab fa-qq'
+  # - title: 343665984 # qq
+  #   class: 'fab fa-qq'
 #  - title: Bilibili # b 站
 #    class: 'fab fa-bilibili'
 #  - title: Wu-_-Kan # weixin

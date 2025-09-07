@@ -2,16 +2,6 @@
 layout: index
 title: Kisara的记忆石板
 ---
-## Contact
-
-- Address: **Sichuan Normal University (Chenglong Campus), Longquanyi District, Chengdu, Sichuan, China**
-- E-mail:**343665984@qq.com**
-- QQ: **343665984**
-- Blog: **<https://arasik.github.io>**
-
-## Education
-
-Currently studying at Sichuan Normal University
 
 ## Honor
 
